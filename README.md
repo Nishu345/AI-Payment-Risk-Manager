@@ -484,7 +484,7 @@ The predictions and risk scores are not guaranteed to identify actual fraudulent
 
 No real customer payment information is used in this project.
 
-👤 Author: Sonamika Anand Samrat
+👤 Author:Nishu Shakya
 
 B.Tech — Computer Science & Engineering
 
